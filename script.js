@@ -1,6 +1,6 @@
 console.log("Mi primer proyecto funcionando");
 const hora = new Date().getHours();
 
-if (hora >= 18 || hora < 6) {
+if (true) {
   document.body.classList.add("noche");
 }
